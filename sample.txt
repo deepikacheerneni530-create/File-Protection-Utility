@@ -1,0 +1,2 @@
+This is my confidential file.
+I am testing AES-256 encryption and decryption.
